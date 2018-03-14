@@ -8,7 +8,7 @@ To run the program:
 	
 		cd into Stock-Predictor-using-SVM/
 		
-                python predictor_gui.py
+                python predictor-gui.py
                 
                   Use the window to make predictions
                   
