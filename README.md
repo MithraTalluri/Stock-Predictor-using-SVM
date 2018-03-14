@@ -32,6 +32,5 @@ Dependencies:
   	csv
   	matplotlib
 
-Contributors:
-	
+Contributor:
 	[Mithra Talluri](https://github.com/MithraTalluri/)
